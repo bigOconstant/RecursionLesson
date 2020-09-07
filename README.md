@@ -159,7 +159,7 @@ int main(){
 
 ## Practice
 
-Write a recursive function to print out the three values starting with the root node.
+Write a recursive function to print out the three values starting with the root node. Put this outside of the Node struct. Right above the main function.
 
 ```cpp
 
