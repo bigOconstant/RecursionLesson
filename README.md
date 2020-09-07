@@ -160,4 +160,19 @@ int main(){
 
 Write a recursive function to print out the three values starting with the root function.
 
-Hint: the base case should be `if (node == NULL)` and the recursive call should be `functionname(node->next)`
+```cpp
+
+void printLinkedList(Node *input){
+    // Put base case here
+    //if(?){
+        // Exit, or return
+    /*}else{
+        // Do something to print here
+        //Inter recursive call here
+    }
+    */
+
+}
+```
+
+Hint: the base case should be `if (input == NULL)` and the recursive call should be `printLinkedList(node->next)`
