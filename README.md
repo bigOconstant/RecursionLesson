@@ -90,6 +90,8 @@ output will be
 1
 ```
 
+It's backwards but that is ok for this example.
+
 ## Why?
 
 You might be thinking, wtf would I not just use a for loop? This seems overly complicated to make a loop.
