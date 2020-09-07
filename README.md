@@ -94,7 +94,7 @@ It's backwards but that is ok for this example.
 
 ## Why?
 
-You might be thinking, wtf would I not just use a for loop? This seems overly complicated to make a loop.
+You might be thinking, wtf why would I not just use a for loop? This seems overly complicated to make a loop.
 
 And the reason is, some things end up much easier with recursion. A common example is sorting algorithms. But that is a complicated topic. Lets talk about how we can use it with what you are studying now. **Linked List**
 
