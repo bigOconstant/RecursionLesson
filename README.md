@@ -117,7 +117,7 @@ struct Node {
     std::string value;
     Node *next;
 
-    //Add a function to the object
+    //Add a constructor to the object to make creating new Nodes easier
     Node(std::string key){
         this->value = key;
         next = NULL;
