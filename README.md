@@ -4,7 +4,7 @@ A Lesson in practical recursion
 
 ## What is it?
 
-Recursion is a function/method that calls itself to create a loop. Thats it. It's a loop created with a function calling itself and you must put it some condition to exit the loop or it will call itself forever.
+Recursion is a function/method that calls itself to create a loop. Thats it. It's a loop created with a function calling itself and you must put in some condition to exit the loop or it will call itself forever. (**Infinite Loop**)
 
 A recursive function usually starts with what is known as a **base case**. This is the condition where the function finishes. There is no law stating that it must start with the base case but for learning purposes it's good to always start your recursive function with the **base case**. It makes you start to think about how to exit. To compare it with a for loop, the **base case** is the condition **i** needs to exit the for loop.
 
