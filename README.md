@@ -124,8 +124,8 @@ struct Node {
     }
     /*
     Recursive function insert:
-        insert checks to see if the next point is NULL, if so it inserts the value into next.
-        If it is not null then it calles the next insert function passing the value down the chain.
+        insert checks to see if the next pointer is NULL, if so it inserts the value into next.
+        If it is not null then it calls the next insert function passing the value down the chain.
 
         This way , it loops all the way to the end of the list placing the value at the end with a new node.
     */
