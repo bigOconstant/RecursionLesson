@@ -142,6 +142,7 @@ struct Node {
 int main(){
     Node *root = new Node("first");
 
+/* The next two inserts inserts new nodes at the end of the list with our recursive insert function*/
     root->insert("second");
     root->insert("third");
 
